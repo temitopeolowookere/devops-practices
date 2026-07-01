@@ -91,7 +91,7 @@ ssh-keygen -t rsa -b 2048 -C "olowookeretemitope92@gmail.com"
 
 During the key generation process:
 
-1. Choose the default location to save the key by pressing **Enter**.
+1.  I Choose the default location to save the key by pressing **Enter**.
 2. Enter a passphrase to further secure the private key (optional but recommended).
 3. Confirm the passphrase.
 
@@ -151,7 +151,7 @@ ssh -T git@github.com
 If the authentication is successful, GitHub responds with a welcome message similar to:
 
 ```text
-Hi <username>! You've successfully authenticated, but GitHub does not provide shell access.
+Hi <temitope>! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
 This message confirms that GitHub recognizes the local machine and that SSH authentication has been successfully configured.
